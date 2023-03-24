@@ -1,0 +1,48 @@
+.tagdiv{
+    width: 100%;
+    text-align: left;
+}
+
+#titulo{
+    display: inline;
+}
+
+.tagdiv button{
+    float: right;
+    border: 5px;
+    border-radius: 25px;
+}
+
+.big-image{
+    width: 100%;
+}
+
+#jogar{
+    font-size: 20px;
+}
+
+.tagh3{
+    font-size: 18px;
+}
+
+h4{
+    background-color: red;
+    color: white;
+    margin: 15px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.instructionImage{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
